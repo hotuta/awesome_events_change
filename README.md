@@ -1,6 +1,14 @@
-# awesome events
+# awesome_events_change
 
-これは、[パーフェクトRuby on Rails](http://gihyo.jp/book/2014/978-4-7741-6516-5)のPart3で作成されたサンプルアプリです。
+これは、[パーフェクトRuby on Rails](http://gihyo.jp/book/2014/978-4-7741-6516-5)のPart3で作成されたサンプルアプリ(https://github.com/willnet/awesome_events)の改変お遊びです。
+
+https://github.com/willnet/awesome_events 
+
+お遊びをし過ぎて不安定になったり変なことになるかもしれません。
+
+よってMITライセンスです。
+
+下記awesome_eventsより転載。
 
 イベント情報を登録／編集したり、イベントに参加登録したりできます。
 
